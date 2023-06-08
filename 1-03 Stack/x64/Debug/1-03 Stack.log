@@ -1,0 +1,12 @@
+﻿  1-03 Stack.cpp
+F:\HXM\C++\c++ advance\1-03 Stack\1-03 Stack.cpp(127,15): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+          with
+          [
+              T=char
+          ]
+F:\HXM\C++\c++ advance\1-03 Stack\1-03 Stack.cpp(142,15): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+          with
+          [
+              T=char
+          ]
+  1-03 Stack.vcxproj -> F:\HXM\C++\c++ advance\x64\Debug\1-03 Stack.exe

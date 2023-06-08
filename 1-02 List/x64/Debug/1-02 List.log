@@ -1,0 +1,22 @@
+﻿  1-02 List.cpp
+F:\HXM\C++\c++ advance\1-02 List\1-02 List.cpp(264,20): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+F:\HXM\C++\c++ advance\1-02 List\1-02 List.cpp(265,21): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+F:\HXM\C++\c++ advance\1-02 List\1-02 List.cpp(281,20): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+F:\HXM\C++\c++ advance\1-02 List\1-02 List.cpp(306,33): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  1-02 List.vcxproj -> F:\HXM\C++\c++ advance\x64\Debug\1-02 List.exe

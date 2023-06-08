@@ -1,0 +1,4 @@
+﻿  0-05 Sort_Bucket.cpp
+F:\HXM\C++\c++ advance\0-05 Sort_Bucket\0-05 Sort_Bucket.cpp(16,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\HXM\C++\c++ advance\0-05 Sort_Bucket\0-05 Sort_Bucket.cpp(56,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  0-05 Sort_Bucket.vcxproj -> F:\HXM\C++\c++ advance\x64\Debug\0-05 Sort_Bucket.exe

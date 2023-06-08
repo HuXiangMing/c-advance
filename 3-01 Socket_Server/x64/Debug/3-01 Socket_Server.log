@@ -1,0 +1,6 @@
+﻿  3-01 Socket_Server.cpp
+F:\HXM\C++\c++ advance\3-01 Socket_Server\3-01 Socket_Server.cpp(92,25): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+F:\HXM\C++\c++ advance\3-01 Socket_Server\3-01 Socket_Server.cpp(147,22): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+F:\HXM\C++\c++ advance\3-01 Socket_Server\3-01 Socket_Server.cpp(191,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+F:\HXM\C++\c++ advance\3-01 Socket_Server\3-01 Socket_Server.cpp(72): warning C4715: “Server::init”: 不是所有的控件路径都返回值
+  3-01 Socket_Server.vcxproj -> F:\HXM\C++\c++ advance\x64\Debug\3-01 Socket_Server.exe

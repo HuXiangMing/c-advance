@@ -1,0 +1,4 @@
+﻿  3-02 Socket_Client.cpp
+F:\HXM\C++\c++ advance\3-02 Socket_Client\3-02 Socket_Client.cpp(47,31): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+F:\HXM\C++\c++ advance\3-02 Socket_Client\3-02 Socket_Client.cpp(105,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  3-02 Socket_Client.vcxproj -> F:\HXM\C++\c++ advance\x64\Debug\3-02 Socket_Client.exe

@@ -1,0 +1,13 @@
+﻿  1-04 Queue.cpp
+F:\HXM\C++\c++ advance\1-04 Queue\1-04 Queue.cpp(126,15): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+          with
+          [
+              T=char
+          ]
+F:\HXM\C++\c++ advance\1-04 Queue\1-04 Queue.cpp(141,15): warning C4267: “参数”: 从“size_t”转换到“T”，可能丢失数据
+          with
+          [
+              T=char
+          ]
+F:\HXM\C++\c++ advance\1-04 Queue\1-04 Queue.cpp(46): warning C4715: “Queue<char>::pop”: 不是所有的控件路径都返回值
+  1-04 Queue.vcxproj -> F:\HXM\C++\c++ advance\x64\Debug\1-04 Queue.exe

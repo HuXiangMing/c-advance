@@ -1,0 +1,3 @@
+﻿  0-01 Sort_Select.cpp
+F:\HXM\C++\c++ advance\0-01 Sort_Select\0-01 Sort_Select.cpp(23,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  0-01 Sort_Select.vcxproj -> F:\HXM\C++\c++ advance\x64\Debug\0-01 Sort_Select.exe

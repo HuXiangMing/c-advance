@@ -1,0 +1,7 @@
+﻿  1-01 Vector.cpp
+F:\HXM\C++\c++ advance\1-01 Vector\1-01 Vector.cpp(190,22): warning C4267: “参数”: 从“size_t”转换到“const T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  1-01 Vector.vcxproj -> F:\HXM\C++\c++ advance\x64\Debug\1-01 Vector.exe
