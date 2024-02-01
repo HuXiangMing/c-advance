@@ -1,0 +1,3 @@
+﻿  4-31 RecycleSystem_01.cpp
+F:\Project\git\c++ advance\4-31 RecycleSystem_01\RecycleSystem.h(63): warning C4715: “RecycleSystem<int>::CreatItem”: 不是所有的控件路径都返回值
+  4-31 RecycleSystem_01.vcxproj -> F:\Project\git\c++ advance\x64\Debug\4-31 RecycleSystem_01.exe

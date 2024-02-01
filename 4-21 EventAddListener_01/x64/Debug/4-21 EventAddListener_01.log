@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(4-04 EventAddListener_01.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  4-21 EventAddListener_01.cpp
+F:\Project\git\c++ advance\4-21 EventAddListener_01\EventHandler.h(7,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  4-21 EventAddListener_01.vcxproj -> F:\Project\git\c++ advance\x64\Debug\4-21 EventAddListener_01.exe

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="4-10 DynamicObject.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DynamicCreate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicObject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{1bd0eed9-b14d-40c0-a311-f43f221ae2ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{cdf1964f-b7f9-45ec-8c56-c96573d23a83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{82f19527-2f47-41ae-8940-de481bcb0b34}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
