@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4-12 DynamicObject_02", "4-
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5-10 IManager", "5-10 IManager\5-10 IManager.vcxproj", "{DD316019-CE2E-4DD6-B02B-86833D77E322}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8-01 Progressbar", "8-01 Progressbar\8-01 Progressbar.vcxproj", "{E44BFA99-F65D-43AE-871E-17709B27DF12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{DD316019-CE2E-4DD6-B02B-86833D77E322}.Release|x64.Build.0 = Release|x64
 		{DD316019-CE2E-4DD6-B02B-86833D77E322}.Release|x86.ActiveCfg = Release|Win32
 		{DD316019-CE2E-4DD6-B02B-86833D77E322}.Release|x86.Build.0 = Release|Win32
+		{E44BFA99-F65D-43AE-871E-17709B27DF12}.Debug|x64.ActiveCfg = Debug|x64
+		{E44BFA99-F65D-43AE-871E-17709B27DF12}.Debug|x64.Build.0 = Debug|x64
+		{E44BFA99-F65D-43AE-871E-17709B27DF12}.Debug|x86.ActiveCfg = Debug|Win32
+		{E44BFA99-F65D-43AE-871E-17709B27DF12}.Debug|x86.Build.0 = Debug|Win32
+		{E44BFA99-F65D-43AE-871E-17709B27DF12}.Release|x64.ActiveCfg = Release|x64
+		{E44BFA99-F65D-43AE-871E-17709B27DF12}.Release|x64.Build.0 = Release|x64
+		{E44BFA99-F65D-43AE-871E-17709B27DF12}.Release|x86.ActiveCfg = Release|Win32
+		{E44BFA99-F65D-43AE-871E-17709B27DF12}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
